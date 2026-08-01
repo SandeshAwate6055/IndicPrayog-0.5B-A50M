@@ -1,0 +1,9 @@
+{
+  "dataset_id": "HuggingFaceFW/fineweb-edu",
+  "config": "sample-10BT",
+  "split": "train",
+  "target_bytes": 681574400,
+  "bytes_written": 681603764,
+  "n_docs": 142108,
+  "seconds": 17.6
+}

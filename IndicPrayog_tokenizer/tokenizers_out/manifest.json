@@ -1,0 +1,56 @@
+[
+  {
+    "variant": "A",
+    "algo": "BPE",
+    "mix": "mix_A",
+    "digit_split": true,
+    "extra": null,
+    "train_seconds": 85.7,
+    "path": "/home/prashant.takale/experiment/IndicPrayog_05B_A54M/IndicPrayog_tokenizer/scripts/../tokenizers_out/A.json"
+  },
+  {
+    "variant": "B",
+    "algo": "BPE",
+    "mix": "mix_B",
+    "digit_split": true,
+    "extra": null,
+    "train_seconds": 87.3,
+    "path": "/home/prashant.takale/experiment/IndicPrayog_05B_A54M/IndicPrayog_tokenizer/scripts/../tokenizers_out/B.json"
+  },
+  {
+    "variant": "C",
+    "algo": "BPE",
+    "mix": "mix_C",
+    "digit_split": true,
+    "extra": null,
+    "train_seconds": 81.9,
+    "path": "/home/prashant.takale/experiment/IndicPrayog_05B_A54M/IndicPrayog_tokenizer/scripts/../tokenizers_out/C.json"
+  },
+  {
+    "variant": "E",
+    "algo": "BPE",
+    "mix": "mix_A",
+    "digit_split": true,
+    "extra": "unicode_scripts",
+    "train_seconds": 63.6,
+    "path": "/home/prashant.takale/experiment/IndicPrayog_05B_A54M/IndicPrayog_tokenizer/scripts/../tokenizers_out/E.json"
+  },
+  {
+    "variant": "F",
+    "algo": "BPE",
+    "mix": "mix_A",
+    "digit_split": false,
+    "extra": null,
+    "train_seconds": 83.6,
+    "path": "/home/prashant.takale/experiment/IndicPrayog_05B_A54M/IndicPrayog_tokenizer/scripts/../tokenizers_out/F.json"
+  },
+  {
+    "variant": "D",
+    "algo": "Unigram",
+    "mix": "mix_A",
+    "digit_split": null,
+    "extra": "byte_fallback",
+    "train_seconds": 100.5,
+    "path": "/home/prashant.takale/experiment/IndicPrayog_05B_A54M/IndicPrayog_tokenizer/scripts/../tokenizers_out/D.json"
+  }
+]
