@@ -1,0 +1,9 @@
+{
+  "dataset_id": "ai4bharat/sangraha",
+  "config": "verified",
+  "split": "hin",
+  "target_bytes": 838860800,
+  "bytes_written": 838882450,
+  "n_docs": 149148,
+  "seconds": 16.4
+}

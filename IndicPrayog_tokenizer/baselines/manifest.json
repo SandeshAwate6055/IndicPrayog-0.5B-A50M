@@ -1,0 +1,43 @@
+[
+  {
+    "name": "sarvam-1",
+    "repo_id": "sarvamai/sarvam-1",
+    "status": "ok (cached)"
+  },
+  {
+    "name": "sarvam-30b",
+    "repo_id": "sarvamai/sarvam-30b",
+    "status": "ok (cached)"
+  },
+  {
+    "name": "gemma-2",
+    "repo_id": "google/gemma-2-9b",
+    "status": "ok (cached)"
+  },
+  {
+    "name": "llama-3.1",
+    "repo_id": "meta-llama/Llama-3.1-8B",
+    "status": "failed",
+    "error": "gated, no access: 403 Client Error. (Request ID: Root=1-6a5b6250-261536b17ae4de6212c72037;e0c421d8-b5a1-4e5d-9b0a-d1cbfcdb5efe)\n\nCannot access gated repo for url https://huggingface.co/meta-llama/Llama-3.1-8B/resolve/main/tokenizer.json.\nAccess to model meta-llama/Llama-3.1-8B is restricted and you are not in the authorized list. Visit https://huggingface.co/meta-llama/Llama-3.1-8B to ask for access."
+  },
+  {
+    "name": "qwen2.5",
+    "repo_id": "Qwen/Qwen2.5-7B",
+    "status": "ok (cached)"
+  },
+  {
+    "name": "mistral-v0.3",
+    "repo_id": "mistralai/Mistral-7B-v0.3",
+    "status": "ok (cached)"
+  },
+  {
+    "name": "gpt2",
+    "repo_id": "gpt2",
+    "status": "ok (cached)"
+  },
+  {
+    "name": "indicbert-v2",
+    "repo_id": "ai4bharat/IndicBERTv2-MLM-only",
+    "status": "ok (cached)"
+  }
+]
